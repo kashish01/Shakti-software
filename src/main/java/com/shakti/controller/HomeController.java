@@ -21,4 +21,9 @@ public class HomeController {
         modelAndView.addObject("productDetails",pd);
         return modelAndView;
 	}
+
+@GetMapping("/shakti") 
+	public String homes(Model model) {
+        return "Kashish";
+	}
 }
