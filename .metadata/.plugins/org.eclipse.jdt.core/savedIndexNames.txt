@@ -44,7 +44,6 @@ INDEX VERSION 1.134+E:\Shakti\.metadata\.plugins\org.eclipse.jdt.core
 1674176114.index
 2043529532.index
 1221373894.index
-3798256577.index
 2623032085.index
 3496151325.index
 2438571388.index
